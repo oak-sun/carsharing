@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.24/13a394eed5c4f9efb2a6d956e2086f1d81e857d9/lombok-1.18.24.jar" />
+        </processorPath>
+        <module name="Car_Sharing.Car_Sharing-task-build-tmp.main" />
+        <module name="Car_Sharing.Car_Sharing-task-build-reports-tests.main" />
+        <module name="Car_Sharing.Car_Sharing-task.main" />
+        <module name="Car_Sharing.util.test" />
+        <module name="Car_Sharing.Car_Sharing-task-build-classes-java.test" />
+        <module name="Car_Sharing.util.main" />
+        <module name="Car_Sharing.Car_Sharing-task-build-generated-sources-headers-java.test" />
+        <module name="Car_Sharing.Car_Sharing-task-build-reports-tests.test" />
+        <module name="Car_Sharing.Car_Sharing-task.test" />
+        <module name="Car_Sharing.Car_Sharing-task-build-classes-java.main" />
+        <module name="Car_Sharing.Car_Sharing-task-build-tmp.test" />
+        <module name="Car_Sharing.Car_Sharing-task-build-test-results.main" />
+        <module name="Car_Sharing.Car_Sharing-task-build-generated-sources-annotationProcessor-java.test" />
+        <module name="Car_Sharing.Car_Sharing-task-build-test-results.test" />
+        <module name="Car_Sharing.Car_Sharing-task-build-generated-sources-annotationProcessor-java.main" />
+        <module name="Car_Sharing.Car_Sharing-task-build-generated-sources-headers-java.main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="17" />
+  </component>
+</project>
